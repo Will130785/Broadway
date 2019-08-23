@@ -47,3 +47,13 @@ p {
     font-size: 11px;
     text-align: left;
 }
+
+#footer {
+    background-color: dimgray;
+    text-align: left;
+    color: white;
+}
+
+.align {
+    text-align: left;
+}
